@@ -1,7 +1,7 @@
 codes to create lovely (to me) stuff ☕️. Would prefer the web to be sustainable 💚 
 
-js, ts, python
-go, c++, and more to delve on
+`js`, `ts`, `python`
+`go`, `c++,` and more to delve on
 
 <!---
 Nonaxce/Nonaxce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

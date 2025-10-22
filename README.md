@@ -1,8 +1,6 @@
-codes to create lovely (to me) stuff ☕️. 
-
 Would prefer the web to be sustainable 💚 
 
-Usual projects involve kaplayjs 🐱‍🐉
+Usual projects involve kaplayjs
 `js`, `ts`, `python`
 `lua`, `c++,` and soon `go`
 

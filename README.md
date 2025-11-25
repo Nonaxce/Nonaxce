@@ -1,5 +1,5 @@
 Would prefer the web to be sustainable 💚 
-
+Currently developing a LAN game using Socket.io
 Usual projects involve kaplayjs
 `js`, `ts`, `python`
 `lua`, `c++,` and soon `go`

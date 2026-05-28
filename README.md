@@ -1,10 +1,6 @@
-Would prefer the web to be sustainable 💚 
+projects involve `js`, `python`, `go`, and maybe `lua`
 
-Currently developing a LAN game using Socket.io.
-
-Usual projects involve kaplayjs
-`js`, `ts`, `python`
-`lua`, `c++,` and soon `go`
+but its usually `go` these days :>
 
 <!---
 Nonaxce/Nonaxce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,4 +7,4 @@ Nonaxce/Nonaxce is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![image0](https://github.com/user-attachments/assets/0de9cd32-0014-4eb9-b243-4d45b3503808)
+![image0](https://github.com/Nonaxce/Nonaxce/blob/19f323619166edce1fe711732db8afd7ff7c998b/1000058070-dithered.png)
